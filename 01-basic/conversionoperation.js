@@ -16,3 +16,11 @@ let someNumber = "20"
 let stringNumber =  String (someNumber)
 console.log(someNumber);
 console.log(typeof someNumber); 
+
+
+// operation
+
+let str1 = hello
+let str2 = Shushil
+let str3 = str1 + str2
+console.log(str3);
