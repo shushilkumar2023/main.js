@@ -34,5 +34,10 @@ console.log(+true);
 console.log(+"");
 
 let gameCounter = 100
-gameCounter++
+gameCounter ++
 console.log(gameCounter);
+
+let x = 3
+let y = x++
+let str1
+console.log(x,y);
