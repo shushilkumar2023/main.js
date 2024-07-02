@@ -13,9 +13,3 @@ let y,x = 6
 y = ++x;
 console.log(x);
 console.log(y);
-
-
-
-
-
-
