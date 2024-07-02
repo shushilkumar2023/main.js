@@ -25,19 +25,19 @@ let str2 = "Shushil"
 let str3 = str1 + str2
 console.log(str3);
 
-console.log(1+1+"2");
-console.log("1"+1+22+4);
-console.log((2+2)*5/5-5);
+// console.log(1+1+"2");
+// console.log("1"+1+22+4);
+// console.log((2+2)*5/5-5);
 
-console.log(true);
-console.log(+true);
-console.log(+"");
+// console.log(true);
+// console.log(+true);
+// console.log(+"");
 
-let gameCounter = 100
-gameCounter ++
-console.log(gameCounter);
+// let gameCounter = 100
+// gameCounter ++
+// console.log(gameCounter);
 
-let x = 3
-let y = x++
-let str1
-console.log(x,y);
+// let x = 3
+// let y = x++
+// let str1
+// console.log(x,y);
