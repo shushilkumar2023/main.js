@@ -23,4 +23,17 @@
 // console.log(Id === anotherId);
 
 
+// There are two types of memory storage
 
+// 1 stack and 
+// 2 Heap 
+
+// Stack primitives data 
+// Heap non Primitives data  
+
+// for example  Stack memory 
+
+let myName = "shushil kumar yadav"
+let anothername = myName
+anothername = "innocent" 
+console.log(myName);
