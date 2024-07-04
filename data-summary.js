@@ -33,7 +33,8 @@
 
 // for example  Stack memory 
 
-let myName = "shushil kumar yadav"
-let anothername = myName
+let myname = "shushil kumar yadav"
+let anothername = myname
 anothername = "innocent" 
-console.log(myName);
+console.log(myname);
+console.log(anothername);
