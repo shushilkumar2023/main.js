@@ -15,7 +15,7 @@
 const score = 100
 const scorevalue = 100.3
 const islooggedIn = false 
-const outsideTem = null
+const OutsideTem = null
 let userEmail;
 
 
