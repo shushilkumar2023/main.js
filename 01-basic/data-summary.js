@@ -29,13 +29,31 @@
 // 1 stack and 
 // 2 Heap 
 
-// Stack primitives data 
-// Heap non Primitives data  
+// Stack primitives data   is copy 
+// Heap non Primitives data  is refernces 
 
 // for example  Stack memory 
 
-let myname = "shushil kumar yadav"
-let anothername = myname
-anothername = "innocent"
-console.log(myname);
-console.log(anothername);
+// let myname = "shushil kumar yadav"
+// let anothername = myname
+// anothername = "innocent"
+// console.log(myname);
+// console.log(anothername);
+
+const number = ["shushil", "kumar", "yadav"]
+let user = {
+        email:"connectwithshushil@gamil.com",
+        upi:"upi@google"
+    },
+    user2 ={
+        email:"kjhadbybgfw ",
+        upi:"hgdvgc"
+    }
+
+let myFunction = function () {
+    console.log(user);
+}
+
+console.log(user, user2);
+
+console.log(typeof "user");
