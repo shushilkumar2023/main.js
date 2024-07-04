@@ -34,6 +34,7 @@
 // for example  Stack memory 
 
 let myname = "shushil kumar yadav"
+
 let anothername = myname
 anothername = "innocent" 
 console.log(myname);
