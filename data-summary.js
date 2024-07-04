@@ -18,9 +18,9 @@
 // const outsideTemp = null
 // let userEmail;
 
-const Id = symbol('123')
-const anotherId = symbol('123')
-console.log(Id === anotherId);
+// const Id = symbol('123')
+// const anotherId = symbol('123')
+// console.log(Id === anotherId);
 
 
 
