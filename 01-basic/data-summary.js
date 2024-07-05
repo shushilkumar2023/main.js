@@ -34,11 +34,11 @@
 
 // for example  Stack memory 
 
-// let myname = "shushil kumar yadav"
-// let anothername = myname
-// anothername = "innocent"
-// console.log(myname);
-// console.log(anothername);
+let myname = "shushil kumar yadav"
+let anothername = myname
+anothername = "innocent"
+ console.log(myname);
+console.log(anothername);
 
 const number = ["shushil", "kumar", "yadav"]
 let user = {
@@ -57,3 +57,12 @@ let myFunction = function () {
 console.log(user, user2);
 
 console.log(typeof "user");
+
+const person = ["shushil", "bibek", "Suraj"]
+let person1 ={
+    name:"Prakritshrestha",
+    age:28
+}
+
+let myFunstion
+
