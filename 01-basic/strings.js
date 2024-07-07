@@ -27,3 +27,20 @@ console.log(anotherString);
 const newStringOne = "Shushil"
 console.log(newStringOne);
 console.log(newStringOne.trim()); 
+
+const URl =" https://vigilant-goggles-5gqqjv66grjrf4xp7.github.dev"
+
+
+console.log(URl.replace("vigilant","shushil"));
+
+const str = "The quick brown fox jump over the lazy dog"
+const word = str.split(" ")
+console.log(word[5]);
+
+const chars = str.split("")
+console.log(chars);
+
+const strcopy = str.split("")
+console.log(strcopy);
+
+console.log( typeof str,word);
