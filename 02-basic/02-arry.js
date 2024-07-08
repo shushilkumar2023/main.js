@@ -5,5 +5,5 @@
 const marval_heroes = ["thor","ironman","spiderman","batman"];
 const person = ["bibek","prabesh","suraj"];
 
-const allMarval_heroes = marval_heroes.concat(person);
-console.log(allMarval_heroes);
+const allMarval = marval_heroes.concat(person);
+console.log(allMarval);
