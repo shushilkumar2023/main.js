@@ -1,7 +1,7 @@
 // //singleton
 // //object literals
 //  Object.create // Objects constructor provides funcitiality common to all javascripts objects  
-//  const mySmb1 = Symbol("key1")
+
 // const myObj = {
 //     name:"shushil kumar yadav",
 //     age:21,
