@@ -21,10 +21,18 @@
 //  anotherperson()
 
 
-function anothername(number1,number2){
-    let result = number1 + number2
-    return result
-}
+// function anothername(number1,number2){
+//     let result = number1 + number2
+//     console.log("shushil");
+//     return result
+// }
 
-const result = anothername(3, 8)
-console.log("Result:", result);
+// const result = anothername(3, 8)
+// console.log("Result:", result);
+
+// function isLopggedIn (username) {
+//     return `${username} just Logged in `
+    
+// }
+//  console.log(isLopggedIn ("shushil")); 
+// console.log(isLopggedIn());
