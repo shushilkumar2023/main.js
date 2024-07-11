@@ -1,5 +1,5 @@
 //    const personname = {
-    //     name:"shushil",
+//         name:"shushil",
 //     //     age:25
 //     function person () {
 //         console.log("s");
@@ -10,7 +10,7 @@
 //         console.log("i");
 //         console.log("l");
 //  }
-// person()
+// person()                                    
 
 // function anotherperson (number1, number2) { //passing and two Aggrement 
 //     console.log(number1 + number2);
@@ -36,3 +36,26 @@
 // }
 //  console.log(isLopggedIn ("shushil")); 
 // console.log(isLopggedIn());
+    
+// console.log(calulatedCartprize(400,500));
+
+// const user = {
+//     username: "shushil",
+//     price:545
+// }
+
+// function handlecart(anyobject) {
+//     console.log(`username is ${anyobject.username} and price is ${anyobject.price}`);
+// }
+//  handlecart({
+//     username: "sam",
+//     price:254
+//  })
+
+//  const myNewArray = [400,200,252,2504]
+// function second (num1) {
+//     return num1 [0]
+// }
+
+// console.log(second([400,200,252,2504]));
+// console.log(second(myNewArray));
