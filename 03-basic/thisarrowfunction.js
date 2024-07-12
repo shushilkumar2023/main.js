@@ -18,8 +18,14 @@
 //     return num1 +num2
 // }
 
-// const addtwo = (num1, num2) => (num1 + num2)
-const addtwo = (num1, num2) => ({username "shuhsil"})
+// // const addtwo = (num1, num2) => (num1 + num2)
+// const addtwo = (num1, num2) => ({username: "shuhsil"})
 
 
-console.log(addtwo(3, 4));
+// console.log(addtwo(3, 4));
+
+// const myArray = [1,5,4,7,8]
+ 
+// myArray.forEach(function (params) { })
+
+// console.log();
