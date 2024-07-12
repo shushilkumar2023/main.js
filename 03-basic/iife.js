@@ -1,4 +1,5 @@
 (function person () {
+    //name iife 
     console.log(`my name is shushil`);
 })();
 
@@ -8,7 +9,8 @@ function person () {
 
  person();
 
- (() => {
-    console.log(`my name is shushil`);
- }) ()
+ ((person) => {
+    // single iife
+    console.log(`my name is shushil ${"shushil"}`);
+ }) (person)
 
