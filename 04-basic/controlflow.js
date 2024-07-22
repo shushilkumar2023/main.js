@@ -40,14 +40,42 @@
 //truthy values 
 // "0", 'false' "", [], {}, function(){}
 
-const userEmail = "connectwithshushil"
-if (userEmail) {
-    console.log("get user email");
-}else {
-    console.log("DOn't have user email ");
-}
+// const userEmail = ""
+// if (userEmail) {
+//     console.log("get user email");
+// }else {
+//     console.log("DOn't have user email ");
+// }
 
-if (userEmail.length === 0) {
-    console.log("Array is Empty");
+// if (userEmail.length === 0) {
+//     console.log("Array is Empty");
     
-}
+// }
+
+// falsy vales 
+// False 0 -0 Bight 0n "" null yndefied NaN
+
+// truthy values 
+// "0",  'false', " "[], {} ,function(){}
+
+//  const emptyObj = {}
+//  if (Object.keys(emptyObj).length === 0) {
+//     console.log("object is empty");
+//  }
+
+//  nulish coalescing operator (??) null undefined
+
+
+// let val1;
+// // val1 = 5 ?? 10
+// // val1 = null ?? 20
+// val1 = undefined ?? 15
+// val1 = null ?? 20 ?? 15
+
+
+
+// console.log(val1);
+
+const iceteaprice = 100
+iceteaprice <= 80 ? console.log("less than 80") : console.log("more than 80");
+
