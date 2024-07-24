@@ -10,3 +10,9 @@
 
 // maps 
 
+const map = new Map ()
+map.set('In', "India")
+map.set('USA', "United stste of America")
+map.set('Fr', "france")
+
+console.log(map);
