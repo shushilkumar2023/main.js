@@ -5,5 +5,5 @@
 
 const str = "shuhsil"
 for (const string of str) {
-    console.log(`value of ${str}`);
+    console.log(`value of ${string}`);
 }
