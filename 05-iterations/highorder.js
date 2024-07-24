@@ -3,7 +3,10 @@
 //     console.log(num);
 // }
 
-const str = "shuhsil"
-for (const string of str) {
-    console.log(`value of ${string}`);
-}
+// const str = "shuhsil"
+// for (const string of str) {
+//     console.log(`value of ${string}`);
+// }
+
+// maps 
+
