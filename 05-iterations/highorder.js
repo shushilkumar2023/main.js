@@ -18,21 +18,30 @@
 
 // console.log(map);
  // for in loop use object
-const myObject = {
-    js: "Javascript",
-    cpp: "c++",
-    php: "python",
-    sky: "shuhsil kumar yadav"
-}
+// const myObject = {
+//     js: "Javascript",
+//     cpp: "c++",
+//     php: "python",
+//     sky: "shuhsil kumar yadav"
+// }
 // 
 
-for (const key in myObject) {
- //  console.log(`${key} and ${myObject[key]}`);
-}
+// for (const key in myObject) {
+//  //  console.log(`${key} and ${myObject[key]}`);
+// }
 
-const programming = ["js", "php", "html", "css"]
+// const programming = ["js", "php", "html", "css"]
 
-for (const key in programming) {
- console.log(`${programming[key]}`); 
+// for (const key in programming) {
+//  console.log(`${programming[key]}`); 
 
-}
+// }
+
+ //for each loop 
+
+ const coding = ["php","cpp","js","java","ruby"]
+//  coding.forEach( function (item) {// simple
+//     console.log(item);
+coding.forEach( (item) => {  //advance 
+    console.log(item);
+ })
