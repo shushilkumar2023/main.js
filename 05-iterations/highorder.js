@@ -39,9 +39,29 @@
 
  //for each loop 
 
- const coding = ["php","cpp","js","java","ruby"]
-//  coding.forEach( function (item) {// simple
-//     console.log(item);
-coding.forEach( (item) => {  //advance 
-    console.log(item);
- })
+//  const coding = ["php","cpp","js","java","ruby"]
+// //  coding.forEach( function (item) {// simple
+// //     console.log(item);
+// coding.forEach( (item, index, arr) => {  //advance 
+//     console.log(item,index,arr );
+//  })
+
+
+// const mycoding = [
+//     {
+//         mobilename: "Nokia",
+//         price: 125
+//     },
+//     {
+//         mobilename: "oppo",
+//         price: 125
+//     },
+//     {
+//         mobilename: "redmi",
+//         price: 125
+//     }
+// ]
+
+// mycoding.forEach((item) => {
+//     console.log(item.mobilename);
+// })
