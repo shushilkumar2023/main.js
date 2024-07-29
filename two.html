@@ -7,9 +7,28 @@
 </head>
 <body style="background-color: #212121; color: #fff;">
     <div class="parent">
+        <!-- this is my code  -->
         <div class="day">sunday</div>
         <div class="day">monday</div>
         <div class="day">tuesday</div>
     </div>
 </body>
+<script>
+   const parent = document.querySelector('.parent')
+//    console.log(parent);
+//    console.log(parent.children);
+//      console.log(parent.children[2].innerHTML);
+
+     for (let i = 0; i < parent.children.length; i++) {
+        console.log(parent.children[i].innerHTML);
+     }
+         parent.children[1].style.color = "orange"
+         console.log(parent.firstElementchild);
+
+         const dayone = document.querySelector(".day")
+         console.log(dayone);
+         console.log(dayone.parentElement);
+         console.log(dayone.nextElementSibling);
+         console.log("NODES:", parent.children);
+</script>
 </html>
